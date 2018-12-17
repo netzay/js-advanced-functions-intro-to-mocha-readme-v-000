@@ -3,5 +3,5 @@ function theTruth(){
 }
 
 function sayHey(){
-  return 'Hey!'
+  return 'Hey!';
 }
